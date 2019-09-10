@@ -1,0 +1,143 @@
+a
+{
+    color: #212121;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p
+{
+    color: #212121;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.logogoogle
+{
+    text-align: center;
+}
+.enhaut
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.espacehaut
+{
+    width: 15px;
+}
+.milieu
+{
+    display:flex;
+    justify-content: center;
+}
+.espacemilieu
+{
+    width: 10px;
+}
+.france
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    border-top: 1px #e4e4e4 solid;
+    background: #f4f4f4
+}
+.fr
+{
+    color: #5f6368
+}
+.basgauche
+{
+    display: flex;
+    align-content: flex-end;
+    justify-content: flex-start;
+    border-top: #e4e4e4 solid;
+    background: #f4f4f4;
+}
+.bg
+{
+    font-size: 12px;
+    color: #5f6368;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.basdroite
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border-top: #e4e4e4 solid;
+    background: #f4f4f4;
+}
+.espacebas
+{
+    width: 20px;
+    color: #5f6368;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.espacetexte
+{
+    width: 30px;
+}
+
+.recherche
+{
+    display: flex;
+    justify-content: center;
+}
+.boutonrecherche
+{
+    color: #212121;
+    border-top: 0px #E4E4E4;
+    border-right: 15px #e4e4e4;
+    border-bottom: 0px #e4e4e4;
+    border-left: 15px #e4e4e4;
+    border-radius: 2px;
+    background: #e4e4e4;
+}
+.gdlachance
+{
+    color: #212121;
+    border-top: 10px #e4e4e4;
+    border-right: 15px #e4e4e4;
+    border-bottom: 10px #e4e4e4;
+    border-left: 15px #e4e4e4;
+    border-radius: 2px;
+    background: #e4e4e4;
+}
+.footer
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.co
+{
+    border-top: 8px #4387FD solid;
+    border-right: 15px #4387FD solid;
+    border-bottom: 8px #4387FD solid;
+    border-left: 15px #4387FD solid;
+    border-radius: 2px;
+    background: #4387FD;
+    color: white;
+    font-weight: bold;
+}   
+
+.bascentre
+{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border-top: #e4e4e4 solid;
+    background: #f4f4f4;
+    width: 39%;
+}
+
+.lestrois
+{
+    display: flex;
+    justify-content: center;
+}
